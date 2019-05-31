@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="PC-20190317EVPL" name="com.icbc.SimpleDemoTest" skipped="0" tests="1" time="0.0" timestamp="2019-05-31T07:01:34">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="ant.file.type.AntDemo" value="file" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/D:/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/templates/" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Windows 7" />
+    <property name="sun.boot.class.path" value="D:\jdk\jdk1.8.0\lib\resources.jar;D:\jdk\jdk1.8.0\lib\rt.jar;D:\jdk\jdk1.8.0\lib\sunrsasign.jar;D:\jdk\jdk1.8.0\lib\jsse.jar;D:\jdk\jdk1.8.0\lib\jce.jar;D:\jdk\jdk1.8.0\lib\charsets.jar;D:\jdk\jdk1.8.0\lib\jfr.jar;D:\jdk\jdk1.8.0\classes" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="D:\eclipse\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="java.runtime.version" value="1.8.0_212-b10" />
+    <property name="user.name" value="Administrator" />
+    <property name="user.language" value="zh" />
+    <property name="sun.boot.library.path" value="D:\jdk\jdk1.8.0\bin" />
+    <property name="ant.project.default-target" value="junit" />
+    <property name="ant.project.name" value="AntDemo" />
+    <property name="java.version" value="1.8.0_212" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="D:\jdk\jdk1.8.0\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="GBK" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="ant.file.AntDemo" value="D:\code\antDemo\build.xml" />
+    <property name="report.path" value="report" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="CN" />
+    <property name="java.home" value="D:\jdk\jdk1.8.0" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="D:\code\antDemo\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.212-b10" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="D:\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="/D:/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/scripts/" />
+    <property name="user.home" value="C:\Users\Administrator" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="D:\jdk\jdk1.8.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\jdk\jdk1.8\bin;D:\tomcat\lib;D:\tomcat\bin;D:\apache-ant-1.10.6\bin;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.icbc.SimpleDemoTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\code\antDemo\report\TEST-com.icbc.SimpleDemoTest.xml crashfile=D:\code\antDemo\junitvmwatcher240484262314618318.properties propsfile=D:\code\antDemo\junit8526877663605523153.properties" />
+    <property name="java.class.path" value="D:\code\antDemo\lib\junit-4.9.jar;D:\code\antDemo\build;D:\jdk\jdk1.8;D:\apache-ant-1.10.6;D:\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-launcher.jar;D:\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar;D:\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit.jar;D:\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit4.jar" />
+    <property name="src.path" value="src/icbc" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="eclipse.pdebuild.home" value="/D:/eclipse/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/./" />
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="lib.path" value="lib" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="D:\jdk\jdk1.8.0\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="D:\code\antDemo" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="build.path" value="build" />
+    <property name="basedir" value="D:\code\antDemo" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="D:\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar" />
+    <property name="test.path" value="src/test" />
+    <property name="file.encoding" value="GBK" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="junit" />
+  </properties>
+  <error message="com.icbc.SimpleDemoTest" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: com.icbc.SimpleDemoTest
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+</error>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
